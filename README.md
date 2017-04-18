@@ -10,7 +10,7 @@ A basic HTML website with the use of links and pictures. The use of inline eleme
 
 ## Setup/Installation Requirements
 
-* {Clone a copy of the file from Github}
+* Clone a copy of the file from Github
 * Open HTML in finder
 * Open in Atom to make any changes
 
