@@ -2,9 +2,15 @@ body {
   background-color: #4c1406;
   text-align: center;
   color: white;
-  font: Times;
-
+  font-family: Times;
+font-weight: bolder;
 }
+
 li {
-  list-style: none;
+  list-style: none; line-height: 20px;letter-spacing: 5px;
+}
+
+h1{
+  color: red;
+  letter-spacing: 5px;
 }
