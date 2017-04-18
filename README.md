@@ -1,12 +1,12 @@
-# _{My First Web Page}_
+# My First Web Page
 
-#### _{A basic HTML website.}, {4-18-2017}_
+#### A basic HTML website, 4-18-2017
 
-#### By _**{Ian Garner, Jun Fritz, Alyssa Moody}**_
+#### By Ian Garner, Jun Fritz, Alyssa Moody
 
 ## Description
 
-_{A basic HTML website with the use of links and pictures. The use of inline elements and block elements. }_
+A basic HTML website with the use of links and pictures. The use of inline elements and block elements.
 
 ## Setup/Installation Requirements
 
